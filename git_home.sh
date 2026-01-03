@@ -10,4 +10,4 @@ echo $my_date
 
 git commit -m "Home Page Category::$my_date"
 
-git push origin thulite-project
+git push origin main
