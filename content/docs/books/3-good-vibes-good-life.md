@@ -73,11 +73,26 @@ It’s important to recognize that it’s not unjust to let go of those who show
 
 But true self-love is when you **appreciate where you are and who you are, regardless of any transformation you aspire to**. The second element encourages growth, and the focus is on taking action. **Improving yourself** and your life is also self-love, because it means you recognize that you deserve more than settling for mediocrity.
 
-* When you love yourself, life will begin to love you back.
+{{< callout original >}}
+When you love yourself, life will begin to love you back.
+{{< /callout >}}
 
-* Self-love is the balance between accepting yourself as you are while knowing you deserve better, and then working towards it.
+---
 
-* Introduction
+{{< callout comment >}}
+I don't know what does this even mean.
+{{< /callout >}}
+
+{{< flashcard >}}
+Self-love is the balance **between accepting yourself as you are while knowing you deserve better**, and then working towards it.
+{{< /flashcard >}}
+
+
+---
+
+### 🌊 Part 1 — A Matter of Vibes
+
+#### ✨ Introduction
 
 * Not everything I’ve wanted has manifested. This has usually been a blessing in disguise. Too many times I’ve believed that I wanted and needed something, but it was for all the wrong reasons. Over the years, I’ve gained clarity and sighed with relief for not getting what I thought was surely meant for me. Often, I’ve not got what I wanted, only to find I’ve later been blessed with even more.
 
@@ -87,22 +102,7 @@ But true self-love is when you **appreciate where you are and who you are, regar
 
 * Change the way you think, feel, speak and act, and you begin to change your world.
 
----
 
-If you want, I can:
-
-* Convert this into **Markdown / AsciiDoc**
-* Group bullets **page-wise**
-* Add **emojis**
-* Extract **only highlights**
-* Prepare **actionable notes** from this text
-
-----
-
----
-
-### 🌊 Part 1 — A Matter of Vibes
-#### ✨ Introduction
 #### 🧲 There’s something missing from the Law of Attraction
 #### 🎵 The Law of Vibration
 #### 😌 Good Vibes Only

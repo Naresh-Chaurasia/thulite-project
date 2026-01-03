@@ -144,8 +144,6 @@ You will either fall short or fall tall. That is the gateway to originality.
 
 So: Copy your heroes. Examine where you fall short. What's in there that makes you different? That's what you should amplify and transform into your own work.
 
-#### 📍 Bookmark 24.Dec
-
 #### 📚 3. Write the Book You Want to Read
 
 The best advice is not to write what you know, it's to write what you like. Write the kind of story you like best—write the story you want to read. The same principle applies to your life and your career: Whenever you're at a loss for what move to make next, just ask yourself, "What would make a better story?
@@ -305,7 +303,7 @@ Occasionally, I have the good fortune to have something take off online, and for
 
 
 ---
-#### 📌 Bookmark
+
 
 #### 🧘 9. Be Boring (It's the Only Way to Get Work Done)
 
@@ -354,13 +352,21 @@ Who you marry is the most important decision you’ll ever make. And "marry well
 #### ➖ 10. Creativity Is Subtraction
 
 
-{{< callout note >}}
+{{< callout original >}}
 In this age of information abundance and overload, those who get ahead will be the folks who **figure out what to leave out**, so they can concentrate on what’s really important to them. Nothing is more paralyzing than the idea of limitless possibilities. The idea that you can do anything is absolutely terrifying.
 {{< /callout >}}
 
+---
+
+{{< callout comment >}}
+* Dance, I have chose to stay where I have support from the team, since my goal is mostly social dancing.
+{{< /callout >}}
+
+----
+
 The way to get over creative block is to simply place some constraints on yourself. It seems contradictory, but when it comes to creative work, limitations mean freedom. Write a song on your lunch break. Paint a painting with only one color. Start a business without any start-up capital. Shoot a movie with your iPhone and a few of your friends. Build a machine out of spare parts.
 
-{{< callout note >}}
+{{< callout original >}}
 Don’t make excuses for not working—make things with the time, space, and materials you have, right now.
 {{< /callout >}}
 
